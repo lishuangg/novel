@@ -3,7 +3,3 @@
 - [连城诀](jy02-liancheng.md)
 - [天龙八部](jy03-tianlong.md)
 - [射雕英雄传](jy04-shediao.md)
-- [鹿鼎记](jy05-luding.md)
-- [笑傲江湖](jy06-xioaao.md)
-- [神雕侠侣](jy07-shendiao.md)
-- [倚天屠龙记](jy08-yitian.md)
